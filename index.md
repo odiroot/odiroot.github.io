@@ -6,7 +6,7 @@ You can currently find me in [Berlin, Germany](http://www.openstreetmap.org/?mla
 
 ## What? 
 
-At the moment I'm working at [Ecosia](https://www.ecosia.org/), helping plant the trees.
+At the moment I'm working at [Byrd](https://getbyrd.com/), delivering world-class fulfillment experience to the long tail of shops.
 
 ## How?
 
@@ -14,24 +14,21 @@ I am an all-around engineer spending most of my time with various web technologi
 
 This time I play with:
 
-* JavaScript (duh!) sometimes even ES6, both browser and Node
-* Python, Django, Pandas
-* Chrome extension and Firefox add-on SDKs
+* Python, Flask
+* Heroku, AWS
+* PostgreSQL, Redis
+* ...
 
 And that's a lot of fun.
 
 # What else?
 
-Well, you can grok my [Github](https://github.com/odiroot) profile. Or my [old blog](http://blog.odnous.net/).
+Well, you can grok my [Github](https://github.com/odiroot) profile.
 
 ## Recent output
-
-Check out my tester for [ES6 (ES2015) features](http://www.odnous.net/es6-test/).
 
 [songs-to-spotify](https://github.com/odiroot/songs-to-spotify) a small project to *watch* SHOUTcast radio streams and create Spotify playlists based on that.
 
 # Contact me
 
-You can write me at ``odi.root (at) gmail.com``.
-
-I am also in the [social sphere](https://de.linkedin.com/in/michalodnous).
+Try [LinkedIn](https://de.linkedin.com/in/michalodnous).
