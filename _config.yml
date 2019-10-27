@@ -1,0 +1,8 @@
+title: Michał Odnous
+description: Software engineer, web passionate, technology dweller, food lover
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
