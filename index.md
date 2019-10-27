@@ -17,15 +17,22 @@ This time I play with:
 * Python, Flask
 * Heroku, AWS
 * PostgreSQL, Redis
-* ...
+
+In my free time I connect stuff to Raspberry Pi Zero and various ESP8226 / ESP32 boards. All powered by MicroPython.
 
 And that's a lot of fun.
 
 # What else?
 
-Well, you can grok my [Github](https://github.com/odiroot) profile.
+Well, you can check my [Github](https://github.com/odiroot) profile.
 
 ## Recent output
+
+[Mopidy remote control](https://github.com/odiroot/mopidy-hw-remote) my never-ending scratch-your-own-itch project, used to control my home media center while I'm cooking.
+
+[Postcards tracker](https://github.com/odiroot/jiaoge) a Django application to track postcards sent to friends and family. It's interactive!
+
+[Fork of mopidy-mqtt](https://github.com/odiroot/mopidy-mqtt) my cleaned-up and extended version of MQTT support for Mopidy music server.
 
 [songs-to-spotify](https://github.com/odiroot/songs-to-spotify) a small project to *watch* SHOUTcast radio streams and create Spotify playlists based on that.
 
